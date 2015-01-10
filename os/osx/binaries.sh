@@ -40,6 +40,11 @@ binaries=(
   ack
   git
   hub
+  gh
+  packer
+  docker
+  fig
+  boot2docker
 )
 
 # Install the binaries
