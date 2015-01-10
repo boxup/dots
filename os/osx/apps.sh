@@ -7,41 +7,39 @@ set -e
 # Apps
 apps=(
   alfred
+  coda
   dropbox
+  github
+  google-drive
+  sourcetree
   google-chrome
   qlcolorcode
-  screenflick
-  slack
   transmit
+  mou
   appcleaner
-  firefox
-  hazel
   qlmarkdown
+  java
   seil
-  spotify
   vagrant
-  arq
   flash
-  iterm2
+  iterm2-beta
   qlprettypatch
-  shiori
+  foxmail
   sublime-text3
   virtualbox
+  vmware-fusion
   atom
   flux
-  mailbox
-  qlstephen
-  sketch
+  cyberduck
   tower
   vlc
   cloudup
   font-m-plus
-  nvalt
+  onyx
   quicklook-json
   skype
   transmission
   apikitchen
-  mamp
 )
 
 # fonts
